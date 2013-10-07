@@ -4,7 +4,7 @@ org_area_num,org_area_name,org_dirgen_num,org_dirgen_name,org_serv_num,org_serv_
 0,Deuda Pública,001,Deuda Pública,00100,Deuda Pública,1101,Deuda Publica,31002,INTERESES PRÉSTAMO DEXIA SABADELL ( INV. 2009 ),231169.77
 0,Deuda Pública,001,Deuda Pública,00100,Deuda Pública,1101,Deuda Publica,31003,INTERESES PRÉSTAMO BBVA ( INV. 2009 ),231169.77
 0,Deuda Pública,001,Deuda Pública,00100,Deuda Pública,1101,Deuda Publica,31004,INTERESES PRÉSTAMOS BANESTO ( INV. 2009 ),438587.5
-0,Deuda Pública,001,Deuda Pública,00100,Deuda Pública,1101,Deuda Publica,31006,BBVA-DEXIA SABADEL Y BCL (REFINANCIACION 2008),1.393775969E7
+0,Deuda Pública,001,Deuda Pública,00100,Deuda Pública,1101,Deuda Publica,31006,BBVA-DEXIA SABADEL Y BCL (REFINANCIACION 2008),13937759.69
 0,Deuda Pública,001,Deuda Pública,00100,Deuda Pública,1101,Deuda Publica,31007,INTERESES PRESTAMO BBVA (INV. 2010),324603.42
 0,Deuda Pública,001,Deuda Pública,00100,Deuda Pública,1101,Deuda Publica,31008,INTERESES PRESTAMO DEXIA SABADELL (INV. 2010),299633.93
 0,Deuda Pública,001,Deuda Pública,00100,Deuda Pública,1101,Deuda Publica,31009,INTERESES PRÉSTAMO B. SANTANDER (INV. 2010),516060
@@ -17,10 +17,10 @@ org_area_num,org_area_name,org_dirgen_num,org_dirgen_name,org_serv_num,org_serv_
 0,Deuda Pública,001,Deuda Pública,00100,Deuda Pública,1101,Deuda Publica,35900,OTROS GASTOS  FINANCIEROS,200000
 0,Deuda Pública,001,Deuda Pública,00100,Deuda Pública,1101,Deuda Publica,91101,AMORTIZACIÓN PTMO. MINIST. IND.TURISMO Y COMERC. (SUBV.2008),60000
 0,Deuda Pública,001,Deuda Pública,00100,Deuda Pública,1101,Deuda Publica,91102,DEUDA PIE 2008,5268910.44
-0,Deuda Pública,001,Deuda Pública,00100,Deuda Pública,1101,Deuda Publica,91103,MINISTERIO DE HACIENDA (DEUDA PIE 2009),1.716980196E7
+0,Deuda Pública,001,Deuda Pública,00100,Deuda Pública,1101,Deuda Publica,91103,MINISTERIO DE HACIENDA (DEUDA PIE 2009),17169801.96
 0,Deuda Pública,001,Deuda Pública,00100,Deuda Pública,1101,Deuda Publica,91125,AMORTIZACION PTMO.INSTITUTO DE CREDITO OFICIAL (INV. 06),1126666.68
 0,Deuda Pública,001,Deuda Pública,00100,Deuda Pública,1101,Deuda Publica,91303,AMORTIZACIÓN PTMO. EUROHYPO (INV.07),2000000
-0,Deuda Pública,001,Deuda Pública,00100,Deuda Pública,1101,Deuda Publica,91304,AMORTIZACIÓN PTMO. BBVA-DEXIA-BCL (REFINANCIACIÓN),1.45311198E7
+0,Deuda Pública,001,Deuda Pública,00100,Deuda Pública,1101,Deuda Publica,91304,AMORTIZACIÓN PTMO. BBVA-DEXIA-BCL (REFINANCIACIÓN),14531119.8
 0,Deuda Pública,001,Deuda Pública,00100,Deuda Pública,1101,Deuda Publica,91305,AMORTIZACIÓN PTMO. BBVA (INV. 2010),164918.42
 0,Deuda Pública,001,Deuda Pública,00100,Deuda Pública,1101,Deuda Publica,91306,AMORTIZACIÓN PTMO. DEXIA SABADELL (INV. 2010),152232.39
 0,Deuda Pública,001,Deuda Pública,00100,Deuda Pública,1101,Deuda Publica,91307,AMORTIZACIÓN PTMO. SANTANDER (INV. 2010),300000
@@ -68,11 +68,11 @@ org_area_num,org_area_name,org_dirgen_num,org_dirgen_name,org_serv_num,org_serv_
 1,Urbanismo y Medio Ambiente,101,Dirección Gral. de Medio Ambiente,10105,Servicio especializado de la Agencia Local de la Energía,42500,Agencia Municipal De La Energia,22799,OTROS TRABAJOS REALIZADOS POR OTRAS EMPRESAS Y PROF.,3639
 1,Urbanismo y Medio Ambiente,101,Dirección Gral. de Medio Ambiente,10105,Servicio especializado de la Agencia Local de la Energía,42500,Agencia Municipal De La Energia,49003,"CUOTAS ENERAGEN, ENERGIE-CITES, ANDANER Y RED ESPAÑOLA CIUDADES P",9300
 1,Urbanismo y Medio Ambiente,101,Dirección Gral. de Medio Ambiente,10105,Servicio especializado de la Agencia Local de la Energía,42500,Agencia Municipal De La Energia,62300,MAQUINARIA INSTALACIONES Y UTILLAJES,12555.48
-1,Urbanismo y Medio Ambiente,102,Gerencia de Urbanismo,10200,Gerencia de Urbanismo,15101,Urbanismo,41000,AL ORGANISMO AUTONOMO GERENCIA URBANISMO,2.031796458E7
+1,Urbanismo y Medio Ambiente,102,Gerencia de Urbanismo,10200,Gerencia de Urbanismo,15101,Urbanismo,41000,AL ORGANISMO AUTONOMO GERENCIA URBANISMO,20317964.58
 1,Urbanismo y Medio Ambiente,102,Gerencia de Urbanismo,10200,Gerencia de Urbanismo,15101,Urbanismo,71000,AL ORGANISMO AUTONOMO GERENCIA URBANISMO,3000000
-1,Urbanismo y Medio Ambiente,102,Gerencia de Urbanismo,10200,Gerencia de Urbanismo,16201,Recogida Y Tratamiento De Residuos,44905,LIPASAM: RECOGIDA RESIDUOS SOLIDOS,4.428987583E7
+1,Urbanismo y Medio Ambiente,102,Gerencia de Urbanismo,10200,Gerencia de Urbanismo,16201,Recogida Y Tratamiento De Residuos,44905,LIPASAM: RECOGIDA RESIDUOS SOLIDOS,44289875.83
 1,Urbanismo y Medio Ambiente,102,Gerencia de Urbanismo,10200,Gerencia de Urbanismo,16201,Recogida Y Tratamiento De Residuos,74400,TRANSFERENCIAS DE CAPITAL LIPASAM,4718431.2
-1,Urbanismo y Medio Ambiente,102,Gerencia de Urbanismo,10200,Gerencia de Urbanismo,16301,Limpieza Viaria,44904,LIPASAM: LIMPIEZA VIARIA,4.927509057E7
+1,Urbanismo y Medio Ambiente,102,Gerencia de Urbanismo,10200,Gerencia de Urbanismo,16301,Limpieza Viaria,44904,LIPASAM: LIMPIEZA VIARIA,49275090.57
 2,Hacienda y Administración Pública,200,Área de Hacienda y Administración Pública,20000,Área de Hacienda y Administración Pública,93100,Hacienda Pública. Dirección Y  Gestón Administrativa,22699,GASTOS DIVERSOS,690356
 2,Hacienda y Administración Pública,201,Dirección Gral. De Hacienda Y Gestión Presupuestaria,20100,Dirección General de Hacienda y Gestión Presupuestaria,93100,Hacienda Pública. Dirección Y  Gestón Administrativa,22610,INDEMNIZACIÓN OCUPACIÓN INMUEBLE,253586.4
 2,Hacienda y Administración Pública,201,Dirección Gral. De Hacienda Y Gestión Presupuestaria,20100,Dirección General de Hacienda y Gestión Presupuestaria,93100,Hacienda Pública. Dirección Y  Gestón Administrativa,22699,GASTOS DIVERSOS,1995.02
@@ -98,13 +98,13 @@ org_area_num,org_area_name,org_dirgen_num,org_dirgen_name,org_serv_num,org_serv_
 2,Hacienda y Administración Pública,202,Dirección Gral. De Recursos Humanos,20200,Dirección General de Recursos Humanos,13200,Seguridad Y Orden Público. Administrac. Gral.,10100,RETRIBUCIONES BÁSICAS,70324.1
 2,Hacienda y Administración Pública,202,Dirección Gral. De Recursos Humanos,20200,Dirección General de Recursos Humanos,13200,Seguridad Y Orden Público. Administrac. Gral.,12000,SUELDOS DEL GRUPO A-1,186320.4
 2,Hacienda y Administración Pública,202,Dirección Gral. De Recursos Humanos,20200,Dirección General de Recursos Humanos,13200,Seguridad Y Orden Público. Administrac. Gral.,12001,SUELDOS DEL GRUPO A-2,506341.44
-2,Hacienda y Administración Pública,202,Dirección Gral. De Recursos Humanos,20200,Dirección General de Recursos Humanos,13200,Seguridad Y Orden Público. Administrac. Gral.,12003,SUELDOS DEL GRUPO C-1,1.034236728E7
+2,Hacienda y Administración Pública,202,Dirección Gral. De Recursos Humanos,20200,Dirección General de Recursos Humanos,13200,Seguridad Y Orden Público. Administrac. Gral.,12003,SUELDOS DEL GRUPO C-1,10342367.28
 2,Hacienda y Administración Pública,202,Dirección Gral. De Recursos Humanos,20200,Dirección General de Recursos Humanos,13200,Seguridad Y Orden Público. Administrac. Gral.,12004,SUELDOS DEL GRUPO C-2,79101
 2,Hacienda y Administración Pública,202,Dirección Gral. De Recursos Humanos,20200,Dirección General de Recursos Humanos,13200,Seguridad Y Orden Público. Administrac. Gral.,12005,SUELDOS DEL GRUPO E,26326.56
 2,Hacienda y Administración Pública,202,Dirección Gral. De Recursos Humanos,20200,Dirección General de Recursos Humanos,13200,Seguridad Y Orden Público. Administrac. Gral.,12006,TRIENIOS,2126448.24
 2,Hacienda y Administración Pública,202,Dirección Gral. De Recursos Humanos,20200,Dirección General de Recursos Humanos,13200,Seguridad Y Orden Público. Administrac. Gral.,12009,OTRAS RETRIBUCIONES BÁSICAS,6170205.27
 2,Hacienda y Administración Pública,202,Dirección Gral. De Recursos Humanos,20200,Dirección General de Recursos Humanos,13200,Seguridad Y Orden Público. Administrac. Gral.,12100,COMPLEMENTO DE DESTINO,5544279.72
-2,Hacienda y Administración Pública,202,Dirección Gral. De Recursos Humanos,20200,Dirección General de Recursos Humanos,13200,Seguridad Y Orden Público. Administrac. Gral.,12101,COMPLEMENTO ESPECÍFICO,1.762470419E7
+2,Hacienda y Administración Pública,202,Dirección Gral. De Recursos Humanos,20200,Dirección General de Recursos Humanos,13200,Seguridad Y Orden Público. Administrac. Gral.,12101,COMPLEMENTO ESPECÍFICO,17624704.19
 2,Hacienda y Administración Pública,202,Dirección Gral. De Recursos Humanos,20200,Dirección General de Recursos Humanos,13200,Seguridad Y Orden Público. Administrac. Gral.,12103,OTROS COMPLEMENTOS,5934505.35
 2,Hacienda y Administración Pública,202,Dirección Gral. De Recursos Humanos,20200,Dirección General de Recursos Humanos,13200,Seguridad Y Orden Público. Administrac. Gral.,13000,RETRIBUCIONES BÁSICAS PERSONAL LABORAL,46071.48
 2,Hacienda y Administración Pública,202,Dirección Gral. De Recursos Humanos,20200,Dirección General de Recursos Humanos,13200,Seguridad Y Orden Público. Administrac. Gral.,13006,ANTIGÜEDAD,7435.44
@@ -576,7 +576,7 @@ org_area_num,org_area_name,org_dirgen_num,org_dirgen_name,org_serv_num,org_serv_
 2,Hacienda y Administración Pública,202,Dirección Gral. De Recursos Humanos,20201,Servicio de Recursos Humanos,22101,Atenciones Sociales,13004,AYUDA ESCOLAR HIJOS - PERSONAL LABORAL,140000
 2,Hacienda y Administración Pública,202,Dirección Gral. De Recursos Humanos,20201,Servicio de Recursos Humanos,22101,Atenciones Sociales,13007,AYUDAS FALLECIMIENTOS Y G.SEPELIO P.LABORAL,7000
 2,Hacienda y Administración Pública,202,Dirección Gral. De Recursos Humanos,20201,Servicio de Recursos Humanos,22101,Atenciones Sociales,13008,AYUDAS PROTESIS PERSONAL LABORAL,381000
-2,Hacienda y Administración Pública,202,Dirección Gral. De Recursos Humanos,20201,Servicio de Recursos Humanos,22101,Atenciones Sociales,16000,SEGURIDAD SOCIAL,5.264112229E7
+2,Hacienda y Administración Pública,202,Dirección Gral. De Recursos Humanos,20201,Servicio de Recursos Humanos,22101,Atenciones Sociales,16000,SEGURIDAD SOCIAL,52641122.29
 2,Hacienda y Administración Pública,202,Dirección Gral. De Recursos Humanos,20201,Servicio de Recursos Humanos,22101,Atenciones Sociales,16207,AYUDA ESCOLAR HIJOS - PERSONAL FUNCIONARIO,306722.5
 2,Hacienda y Administración Pública,202,Dirección Gral. De Recursos Humanos,20201,Servicio de Recursos Humanos,22101,Atenciones Sociales,16208,AYUDA PROTESIS- PERSONAL FUNCIONARIIO,455899.61
 2,Hacienda y Administración Pública,202,Dirección Gral. De Recursos Humanos,20201,Servicio de Recursos Humanos,22101,Atenciones Sociales,16210,AYUDA FALLECIMIENTO-PERSONAL FUNCIONARIO,6000
@@ -988,7 +988,7 @@ org_area_num,org_area_name,org_dirgen_num,org_dirgen_name,org_serv_num,org_serv_
 4,Seguridad y Movilidad,402,Dirección Gral. De Seguridad,40203,"Servicio de Prevención, Extinción de Incendios y Salvamento",13502,Serv.Extinción De Incendios.Suministros Y Otros,6260160,EQUIPOS INFORMATICOS,150000
 4,Seguridad y Movilidad,402,Dirección Gral. De Seguridad,40203,"Servicio de Prevención, Extinción de Incendios y Salvamento",13502,Serv.Extinción De Incendios.Suministros Y Otros,6270060,PROYECTOS COMPLEJOS,450000
 4,Seguridad y Movilidad,402,Dirección Gral. De Seguridad,40204,Centro de Coordinación Operativa,13402,Coordinación Operativa,22799,OTROS TRABAJOS REALIZADOS POR OTRAS EMPRESAS Y PROFES.,406291.71
-4,Seguridad y Movilidad,402,Dirección Gral. De Seguridad,40204,Centro de Coordinación Operativa,44101,Mantenimiento Y Desarrollo Del Transporte,44900,TUSSAM: TRANSFERENCIAS CORRIENTES,5.643694E7
+4,Seguridad y Movilidad,402,Dirección Gral. De Seguridad,40204,Centro de Coordinación Operativa,44101,Mantenimiento Y Desarrollo Del Transporte,44900,TUSSAM: TRANSFERENCIAS CORRIENTES,56436940
 5,"Cultura, Educación, Juventud y Deportes",501,Dirección Gral. De Cultura,50101,Servicio de Educación,32302,Convenios Y Relaciones Con Las Universidades,22601,ATENCIONES PROTOCOLARIAS Y REPRESENT.,2000
 5,"Cultura, Educación, Juventud y Deportes",501,Dirección Gral. De Cultura,50101,Servicio de Educación,32302,Convenios Y Relaciones Con Las Universidades,48101,PREMIOS,15000
 5,"Cultura, Educación, Juventud y Deportes",501,Dirección Gral. De Cultura,50101,Servicio de Educación,32302,Convenios Y Relaciones Con Las Universidades,48964,OTRAS TRANSFERENCIAS: U.N.E.D.,12000
@@ -1035,7 +1035,7 @@ org_area_num,org_area_name,org_dirgen_num,org_dirgen_name,org_serv_num,org_serv_
 5,"Cultura, Educación, Juventud y Deportes",501,Dirección Gral. De Cultura,50106,Banda Municipal de Música,33503,Conciertos,22699,GASTOS DIVERSOS,2850
 5,"Cultura, Educación, Juventud y Deportes",501,Dirección Gral. De Cultura,50106,Banda Municipal de Música,33503,Conciertos,22799,OTROS TRABAJOS REALIZADOS POR OTRAS EMPRESAS Y PROFES.,2375
 5,"Cultura, Educación, Juventud y Deportes",502,Instituto De La Cultura Y Las Artes De Sevilla,50200,Instituto de la Cultura y las Artes de Sevilla,33400,Dirección Y Administración Cultural,41000,AL INSTITUTO DE LA CULTURA Y DE LAS ARTES DE SEVILLA,4681347.75
-5,"Cultura, Educación, Juventud y Deportes",503,Instituto Municipal De Deportes,50300,Instituto Municipal de Deportes,34101,Promoción Y Fomento Del Deporte,41000,AL ORGANISMO AUTONOMO INSTITUTO DE DEPORTES,2.058613668E7
+5,"Cultura, Educación, Juventud y Deportes",503,Instituto Municipal De Deportes,50300,Instituto Municipal de Deportes,34101,Promoción Y Fomento Del Deporte,41000,AL ORGANISMO AUTONOMO INSTITUTO DE DEPORTES,20586136.68
 6,"Familia, Asuntos Sociales y Zonas de Especial Actuación",601,Dirección Gral. De Asuntos Sociales,60101,Dirección General Asuntos Sociales,23102,Funcionamiento Y Equipamiento   Red Básica  Serv.Sociales,22199,MATERIALES DIVERSOS PROGRAMAS DE INTERVENCION,7500
 6,"Familia, Asuntos Sociales y Zonas de Especial Actuación",601,Dirección Gral. De Asuntos Sociales,60101,Dirección General Asuntos Sociales,23102,Funcionamiento Y Equipamiento   Red Básica  Serv.Sociales,22400,PRIMAS DE SEGUROS,3000
 6,"Familia, Asuntos Sociales y Zonas de Especial Actuación",601,Dirección Gral. De Asuntos Sociales,60101,Dirección General Asuntos Sociales,23102,Funcionamiento Y Equipamiento   Red Básica  Serv.Sociales,22700,LIMPIEZA Y ASEO,189333.33
@@ -1076,7 +1076,7 @@ org_area_num,org_area_name,org_dirgen_num,org_dirgen_name,org_serv_num,org_serv_
 6,"Familia, Asuntos Sociales y Zonas de Especial Actuación",601,Dirección Gral. De Asuntos Sociales,60103,Subvenciones Asuntos Sociales,23108,Interv. En Situaciones De Urgencia Y Emergencia,4800160,PROGRAMA SOCIAL DE URGENCIAS Y AYUDAS PARA EMER,165000
 6,"Familia, Asuntos Sociales y Zonas de Especial Actuación",601,Dirección Gral. De Asuntos Sociales,60103,Subvenciones Asuntos Sociales,23301,Interv.Con Personas Mayores Y/o Discapacitados,1430060,PERSONAL LEY DE DEPENDENCIA,1071251.94
 6,"Familia, Asuntos Sociales y Zonas de Especial Actuación",601,Dirección Gral. De Asuntos Sociales,60103,Subvenciones Asuntos Sociales,23301,Interv.Con Personas Mayores Y/o Discapacitados,1600060,SEGURIDAD SOCIAL LEY DE DEPENDENCIA,363973.06
-6,"Familia, Asuntos Sociales y Zonas de Especial Actuación",601,Dirección Gral. De Asuntos Sociales,60103,Subvenciones Asuntos Sociales,23301,Interv.Con Personas Mayores Y/o Discapacitados,2271260,SERVICIO DE AYUDA A DOMICILIO,3.017482564E7
+6,"Familia, Asuntos Sociales y Zonas de Especial Actuación",601,Dirección Gral. De Asuntos Sociales,60103,Subvenciones Asuntos Sociales,23301,Interv.Con Personas Mayores Y/o Discapacitados,2271260,SERVICIO DE AYUDA A DOMICILIO,30174825.64
 6,"Familia, Asuntos Sociales y Zonas de Especial Actuación",601,Dirección Gral. De Asuntos Sociales,60103,Subvenciones Asuntos Sociales,23301,Interv.Con Personas Mayores Y/o Discapacitados,2279960,OTROS TRABAJOS REALIZADOS POR OTRAS EMP.Y PROF.,135130.32
 6,"Familia, Asuntos Sociales y Zonas de Especial Actuación",602,Dirección Gral. De Familia Y Salud,60201,Servicio de la Mujer,23201,P.Igualdad De Oportunidades,22001,"PRENSA, REVISTAS, LIBROS Y OTRAS PUBLICA.",500
 6,"Familia, Asuntos Sociales y Zonas de Especial Actuación",602,Dirección Gral. De Familia Y Salud,60201,Servicio de la Mujer,23201,P.Igualdad De Oportunidades,22602,PUBLICIDAD Y PROPAGANDA,22000
